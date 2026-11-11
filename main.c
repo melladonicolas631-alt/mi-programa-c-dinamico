@@ -1,6 +1,8 @@
 include <stdio.h>
 #include <stdlib.h> // Necesario para las funciones de asignación de memoria dinámica: malloc y free
 
+//HOLAHOLA CHAUCHAU
+
 int main() {
     int *arr; // Declaramos un puntero a un entero, que apuntará al inicio de nuestro arreglo dinámico
     int n;    // Variable para almacenar el tamaño deseado del arreglo
